@@ -1,6 +1,8 @@
 # Tomas' Prework Study Guide Notes
 
-## A collection of my notes and important pieces of information I've found while preparing my work. While preparing for this course, there was a lot of useful information presented, and this is a summary of my collected notes so far. Constructing a well organized space for the information made stream-lining and absorbing information much easier.
+## Description 
+
+A collection of my notes and important pieces of information I've found while preparing my work. While preparing for this course, there was a lot of useful information presented, and this is a summary of my collected notes so far. Constructing a well organized space for the information made stream-lining and absorbing information much easier.
 
 
 ## Table of Contents 
